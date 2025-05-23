@@ -1,11 +1,11 @@
-# My Cocrea Game Project
+# Adventure Of Linear Motion
 
 This is a game I created using Cocrea (also called Gandi IDE) for a school competition.
 
 ## About the Game
 - Platform: Cocrea (block coding)
 - File: `my-game.sb3`
-- Description: [Write what the game is about – e.g., a simple puzzle game with multiple levels]
+- Description: Simple multiple choice answers game to challenge the understanding of linear motion topic in matriculation level
 - What I learned: Basic game logic, design, and event handling using blocks.
 
 ## How to Open
